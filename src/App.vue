@@ -24,5 +24,6 @@ export default {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 20px;
+  border-radius: 20px;
 }
 </style>
