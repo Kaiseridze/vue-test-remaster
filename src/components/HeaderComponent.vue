@@ -17,6 +17,8 @@ export default defineComponent({
 
 <style scoped lang="scss">
 .header {
+  font-family: 'Poppins', sans-serif;
+
   &__nav {
     display: flex;
     justify-content: space-between;
